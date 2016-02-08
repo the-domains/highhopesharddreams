@@ -1,8 +1,7 @@
+name: 'High Hopes & Hard Dreams'
+favicon: null
+layout_spectrum: 0.5561529
 typography_spectrum: 0.6505376
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.5561529
-color:
-  saturation: 0.9255636688321829
-  brandStrength: 0.4223417
-  rhythmicContrast: 0.8323625086341053
-  brandColors:
-    - '#9A9089'
-    - '#FFFFFF'
-    - '#C5BDB5'
-    - '#6D5C4C'
-    - '#1F1E20'
-  lightness: 0.7673002805095166
-purpose: []
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-favicon: null
-name: 'high hopes & hard dreams'
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#02070b'
+    - '#09364b'
+    - '#58726f'
+    - '#788d86'
+    - '#96aba4'
+  brandStrength: 0.25
+  lightness: 0.8125
+  saturation: 0.9375
+  rhythmicContrast: 0.75
+purpose: []
