@@ -1,28 +1,40 @@
-name: highhopesharddreams
-favicon: null
-layout_spectrum: 0.4906002401839942
-typography_spectrum: 0.6198180494830012
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9616828744765371
-  lightness: 0.7673002805095166
-  saturation: 0.9255636688321829
-  rhythmicContrast: 0.8323625086341053
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9255636688321829
+  brandStrength: 0.4223417
+  lightness: 0.7673002805095166
+  brandColors:
+    - '#9A9089'
+    - '#FFFFFF'
+    - '#C5BDB5'
+    - '#6D5C4C'
+    - '#1F1E20'
+  rhythmicContrast: 0.8323625086341053
+typography_spectrum: 0.6505376
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5561529
+favicon: null
+name: highhopesharddreams
