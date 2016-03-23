@@ -1,7 +1,7 @@
 name: 'High Hopes & Hard Dreams'
 favicon: null
-layout_spectrum: 0.58942
-typography_spectrum: 0.6505376
+layout_spectrum: 0.40399
+typography_spectrum: 0.57709
 collections:
   - index:
       path: /
