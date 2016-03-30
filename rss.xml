@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[High Hopes & Hard Dreams]]></title>
+        <description><![CDATA[High Hopes & Hard Dreams]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 05:10:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Abraham Lincoln</p>]]></description>
+            <link>undefinedabraham-lincoln/index.html</link>
+            <guid isPermaLink="false">949211f9-54fe-481f-ad5e-65a73f6c7013</guid>
+            <pubDate>Wed, 30 Mar 2016 05:10:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
