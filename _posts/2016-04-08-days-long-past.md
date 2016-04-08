@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I still remember those days so fondly. The smell of the sea, the kiss of the salt, and the warmth of my family. Those summer days on the island meant more to my spiritual being than I could ever imagine. We would walk from our ancestral lands to the beach that many before had ventured to. We would strip down and run into the surf, lay under the shade of the tree and reminisce of the stories we were told by the elders.\_"
-datePublished: '2016-04-08T21:32:30.688Z'
-dateModified: '2016-04-08T21:32:30.230Z'
+datePublished: '2016-04-08T21:39:46.816Z'
+dateModified: '2016-04-08T21:36:29.214Z'
 author: []
 related: []
 app_links: []
