@@ -2,14 +2,25 @@
     <channel>
         <title><![CDATA[High Hopes & Hard Dreams]]></title>
         <description><![CDATA[High Hopes & Hard Dreams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/highhopesharddreams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 05:10:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 20:14:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/highhopesharddreams/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Facing Your Fear of Change]]></title>
+            <description><![CDATA[<article><h1>Facing Your Fear of Change</h1><p>Let’s be honest.
+Change freaks us out. I think more than anything else. We try not to think
+about it because it grows in so many ways. Everyone fears the unknown because
+it forces us out of our comfort zone. Change is defined as becoming
+different or making something different. </p></article>]]></description>
+            <link>https://thegrid.ai/highhopesharddreams/facing-your-fear-of-change/index.html</link>
+            <guid isPermaLink="false">c961eac2-c53c-4607-93a4-f1872847deaa</guid>
+            <pubDate>Fri, 08 Apr 2016 20:13:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Abraham Lincoln</p>]]></description>
-            <link>undefinedabraham-lincoln/index.html</link>
+            <link>https://thegrid.ai/highhopesharddreams/abraham-lincoln/index.html</link>
             <guid isPermaLink="false">949211f9-54fe-481f-ad5e-65a73f6c7013</guid>
             <pubDate>Wed, 30 Mar 2016 05:10:22 GMT</pubDate>
         </item>
