@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The\ngreatest mistake you can make in life is be continually fearing you will make\none.\_- Elbert Hubbard\_"
-datePublished: '2016-04-08T21:32:06.781Z'
-dateModified: '2016-04-08T21:31:05.496Z'
+datePublished: '2016-04-08T21:47:16.555Z'
+dateModified: '2016-04-08T21:44:41.981Z'
 title: Facing Your Fear of Change
 author: []
+sourcePath: _posts/2016-04-08-facing-your-fear-of-change.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-facing-your-fear-of-change.md
-published: true
 url: facing-your-fear-of-change/index.html
 _type: Article
 
