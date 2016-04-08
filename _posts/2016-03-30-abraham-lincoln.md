@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Abraham Lincoln
-datePublished: '2016-04-08T21:36:29.827Z'
-dateModified: '2016-04-08T21:34:33.178Z'
+datePublished: '2016-04-08T21:47:06.457Z'
+dateModified: '2016-04-08T21:47:05.748Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-30-abraham-lincoln.md
@@ -25,4 +25,3 @@ _type: Article
 > In the end, it's not the years in your life that count. It's the life in your years. 
 
 Abraham Lincoln
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/637372f6-eef7-464d-a225-e9c5b0a13a96.jpg)
