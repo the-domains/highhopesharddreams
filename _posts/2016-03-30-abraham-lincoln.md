@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: Abraham Lincoln
-datePublished: '2016-04-08T21:52:02.064Z'
-dateModified: '2016-04-08T21:47:10.126Z'
+datePublished: '2016-08-10T21:08:21.891Z'
+dateModified: '2016-08-10T21:08:21.358Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-30-abraham-lincoln.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: abraham-lincoln/index.html
 _type: Article
 
