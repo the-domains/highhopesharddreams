@@ -1,34 +1,11 @@
-typography_spectrum: 0.94696
-color:
-  saturation: 0.5625
-  brandStrength: 0.8125
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#02070b'
-    - '#09364b'
-    - '#58726f'
-    - '#788d86'
-    - '#96aba4'
-  lightness: 0.375
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.4450418
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 name: High Hopes & Hard Dreams
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+layout_spectrum: 0.25267
+typography_spectrum: 0.94696
 navigation:
   - name: About
     id: 949211f9-54fe-481f-ad5e-65a73f6c7013
     type: content
-favicon: null
 collections:
   - index:
       path: /
@@ -42,4 +19,27 @@ collections:
     permalink:
       path: '/:title/'
 title: High Hopes & Hard Dreams
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#02070b'
+    - '#09364b'
+    - '#58726f'
+    - '#788d86'
+    - '#96aba4'
+  brandStrength: 0.8125
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
